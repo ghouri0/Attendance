@@ -1,0 +1,12 @@
+.chart{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    flex: 3;
+    padding: 10px;
+    box-shadow: -1px -8px 25px -4px rgb(162, 117, 204);
+    -webkit-box-shadow: -1px -8px 30px -4px rgb(162, 117, 204);
+    -moz-box-shadow: -1px -8px 25px -4px rgb(162, 117, 204);
+    border-radius: 10px;
+    height: max-content;
+}

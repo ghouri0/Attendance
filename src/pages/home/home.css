@@ -1,0 +1,28 @@
+.home{
+    display: flex;
+}
+.homeContainer{
+    flex: 5;
+}
+.widgets{
+    display: flex;
+    padding: 20px;
+    gap: 20px;
+}
+.charts{
+    display: flex;
+    padding: 20px;
+}
+.tableContainer{
+    box-shadow: -1px -8px 10px -4px rgb(143, 108, 175);
+    -webkit-box-shadow: -1px -8px 20px -4px rgb(73, 72, 74);
+    -moz-box-shadow: -1px -8px 10px -4px rgb(162, 117, 204);
+    padding: 10px;
+    margin: 5px 20px;
+    border-radius: 5px;
+}
+.tableTitle{
+    font-weight: bold;
+    color: rgb(59, 58, 58);
+    margin-bottom: 15px;
+}
